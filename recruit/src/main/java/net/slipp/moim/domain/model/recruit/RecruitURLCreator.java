@@ -1,9 +1,7 @@
 package net.slipp.moim.domain.model.recruit;
 
 
-import lombok.NonNull;
 import net.slipp.utils.Assertions;
-import org.springframework.data.domain.DomainEvents;
 import org.springframework.stereotype.Service;
 
 @Service
